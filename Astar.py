@@ -1,6 +1,7 @@
-#A*算法寻路演示脚本
+#AstarPathfinding
 #请在与脚本相同目录下创建config.txt文件，第一行为演示速度（单位为毫秒），其余行为地图数据（行数和列数必须相等），o：可通行，x：障碍物，a：起点，b：终点
-#作者：mECORI chatgpt-4o
+#Please create a config.txt file in the same directory as the script. The first line is the demo speed (in milliseconds), and the remaining lines are map data (the number of rows and columns must be equal), o: passable, x: obstacle, a: start, b: end
+#by：元亓 chatgpt-4o
 #Github：https://github.com/djmh1793225009
 #Telegram：https://t.me/yume_yuki
 import pygame
